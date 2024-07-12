@@ -1,10 +1,10 @@
 ### Oi, tudo bem? 👋
 
-- 🔭 Procurando estagio como Dev BackEnd
+- 🔭 Procurando estagio 
 - 🎓 Técnico em Informática
-- 📖 Atualmente cursando Analise e Desenvolvimento de Sistemas 
+- 🎓 Analise e Desenvolvimento de Sistemas
+- 📖 Atualmente cursando Sistemas de Informação
 - 📫 E-mail: felipegrellmannsouza@gmail.com
-
 
 
 
