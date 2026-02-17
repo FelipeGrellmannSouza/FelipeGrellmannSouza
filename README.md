@@ -1,6 +1,5 @@
 ### Oi, tudo bem? 👋
 
-- 🔭 Procurando estagio 
 - 🎓 Técnico em Informática
 - 🎓 Analise e Desenvolvimento de Sistemas
 - 📖 Atualmente cursando Sistemas de Informação
